@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <p>This is the Primary Page</p>
+            <p>This is to test deploy set in Web app</p>
         </div>
     </form>
 </body>
